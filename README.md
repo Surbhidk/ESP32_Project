@@ -11,7 +11,7 @@ This project demonstrates UART-based communication between two ESP32 boards usin
 - Structured telegram message protocol
 - Modular design for easy protocol expansion
 
-##  Project Structure
+## Project Structure
 ESP32_UART_project
 ┣  main
 ┃ ┣  main.c
@@ -20,13 +20,13 @@ ESP32_UART_project
 ┣  sdkconfig
 ┗  README.md
 
-## 🚀 Getting Started
+## Getting Started
 - Open the project using the ESP-IDF environment
 - Run `idf.py set-target esp32` if needed
 - Build the project with `idf.py build`
 - Flash using `idf.py -p <PORT> flash`
 
-References
+## References
 ESP32 UART Communication Tutorial – ControllersTech
 
 ESP-IDF UART Driver Documentation
