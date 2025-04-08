@@ -28,7 +28,9 @@ ESP32_UART_project
 
 References
 ESP32 UART Communication Tutorial – ControllersTech
+
 ESP-IDF UART Driver Documentation
+
 ESP-AT Command Set – Espressif Docs
 
 
